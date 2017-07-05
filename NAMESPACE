@@ -1,0 +1,4 @@
+exportPattern("^[^\\.]")
+
+importFrom("graphics", "abline", "curve")
+importFrom("stats", "rbinom", "rmultinom", "rnorm", "runif", "uniroot")
